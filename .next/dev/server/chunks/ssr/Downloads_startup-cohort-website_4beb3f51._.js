@@ -256,7 +256,7 @@ function HomePage() {
                                             style: {
                                                 fontFamily: "SF Mono"
                                             },
-                                            className: "   p-0 m-0 text-[0.6rem] md:text-[0.8rem] lg:text-[1rem] leading-2.5 md:leading-3 lg:leading-4  text-primary whitespace-pre  font-mono  tracking-normal",
+                                            className: "   p-0 m-0 text-[0.4rem] sm:text-[0.6rem] md:text-[0.8rem] lg:text-[1rem] leading-1.5 sm:leading-2 md:leading-3 lg:leading-4  text-primary whitespace-pre  font-mono  tracking-normal",
                                             children: __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$components$2f$ascii$2d$art$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["DISRUPTORS_ASCII"]
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",

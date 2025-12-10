@@ -22,7 +22,7 @@ export default function HomePage() {
                   style={{
                     fontFamily: "SF Mono",
                   }}
-                  className="   p-0 m-0 text-[0.6rem] md:text-[0.8rem] lg:text-[1rem] leading-2.5 md:leading-3 lg:leading-4  text-primary whitespace-pre  font-mono  tracking-normal"
+                  className="   p-0 m-0 text-[0.4rem] sm:text-[0.6rem] md:text-[0.8rem] lg:text-[1rem] leading-1.5 sm:leading-2 md:leading-3 lg:leading-4  text-primary whitespace-pre  font-mono  tracking-normal"
                 >
                   {DISRUPTORS_ASCII}
                 </pre>

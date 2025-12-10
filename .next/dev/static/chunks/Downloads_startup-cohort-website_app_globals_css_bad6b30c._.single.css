@@ -1996,6 +1996,14 @@
     line-height: var(--tw-leading, var(--text-xs--line-height));
   }
 
+  .text-\[0\.2rem\] {
+    font-size: .2rem;
+  }
+
+  .text-\[0\.4rem\] {
+    font-size: .4rem;
+  }
+
   .text-\[0\.6rem\] {
     font-size: .6rem;
   }
@@ -2006,6 +2014,11 @@
 
   .text-\[10px\] {
     font-size: 10px;
+  }
+
+  .leading-1\.5 {
+    --tw-leading: calc(var(--spacing) * 1.5);
+    line-height: calc(var(--spacing) * 1.5);
   }
 
   .leading-2\.5 {
@@ -4255,6 +4268,19 @@
     .sm\:text-sm {
       font-size: var(--text-sm);
       line-height: var(--tw-leading, var(--text-sm--line-height));
+    }
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:text-\[0\.6rem\] {
+      font-size: .6rem;
+    }
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:leading-2 {
+      --tw-leading: calc(var(--spacing) * 2);
+      line-height: calc(var(--spacing) * 2);
     }
   }
 
