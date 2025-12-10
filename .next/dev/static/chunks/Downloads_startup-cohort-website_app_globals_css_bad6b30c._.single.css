@@ -52,9 +52,6 @@
       --tw-drop-shadow-alpha: 100%;
       --tw-drop-shadow-size: initial;
       --tw-content: "";
-      --tw-scale-x: 1;
-      --tw-scale-y: 1;
-      --tw-scale-z: 1;
       --tw-animation-delay: 0s;
       --tw-animation-direction: normal;
       --tw-animation-duration: initial;
@@ -81,10 +78,7 @@
     --color-red-50: #fef2f2;
     --color-red-300: #ffa3a3;
     --color-red-400: #ff6568;
-    --color-red-500: #fb2c36;
     --color-red-600: #e40014;
-    --color-green-400: #05df72;
-    --color-blue-500: #3080ff;
     --color-black: #000;
     --color-white: #fff;
     --spacing: .25rem;
@@ -137,10 +131,7 @@
       --color-red-50: lab(96.5005% 4.18508 1.52328);
       --color-red-300: lab(76.5514% 36.422 15.5335);
       --color-red-400: lab(63.7053% 60.745 31.3109);
-      --color-red-500: lab(55.4814% 75.0732 48.8528);
       --color-red-600: lab(48.4493% 77.4328 61.5452);
-      --color-green-400: lab(78.503% -64.9265 39.7492);
-      --color-blue-500: lab(54.1736% 13.3369 -74.6839);
     }
   }
 }
@@ -1183,10 +1174,6 @@
     flex: 1;
   }
 
-  .shrink {
-    flex-shrink: 1;
-  }
-
   .shrink-0 {
     flex-shrink: 0;
   }
@@ -1239,10 +1226,6 @@
     transform-origin: var(--radix-tooltip-content-transform-origin);
   }
 
-  .origin-center {
-    transform-origin: center;
-  }
-
   .-translate-x-1\/2 {
     --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
     translate: var(--tw-translate-x) var(--tw-translate-y);
@@ -1281,10 +1264,6 @@
   .translate-y-\[calc\(-50\%_-_2px\)\] {
     --tw-translate-y: calc(-50% - 2px);
     translate: var(--tw-translate-x) var(--tw-translate-y);
-  }
-
-  .scale-\[0\.4\] {
-    scale: .4;
   }
 
   .rotate-45 {
@@ -1630,10 +1609,6 @@
     border-color: var(--color-border);
   }
 
-  .border-blue-500 {
-    border-color: var(--color-blue-500);
-  }
-
   .border-border {
     border-color: var(--border);
   }
@@ -1652,20 +1627,12 @@
     border-color: var(--destructive);
   }
 
-  .border-green-400 {
-    border-color: var(--color-green-400);
-  }
-
   .border-input {
     border-color: var(--input);
   }
 
   .border-primary {
     border-color: var(--primary);
-  }
-
-  .border-red-500 {
-    border-color: var(--color-red-500);
   }
 
   .border-sidebar-border {
@@ -1870,10 +1837,6 @@
     padding-inline: calc(var(--spacing) * 8);
   }
 
-  .py-0 {
-    padding-block: calc(var(--spacing) * 0);
-  }
-
   .py-0\.5 {
     padding-block: calc(var(--spacing) * .5);
   }
@@ -2039,10 +2002,6 @@
 
   .text-\[0\.8rem\] {
     font-size: .8rem;
-  }
-
-  .text-\[1\.8vw\] {
-    font-size: 1.8vw;
   }
 
   .text-\[10px\] {
@@ -4293,6 +4252,13 @@
   }
 
   @media (min-width: 40rem) {
+    .sm\:text-sm {
+      font-size: var(--text-sm);
+      line-height: var(--tw-leading, var(--text-sm--line-height));
+    }
+  }
+
+  @media (min-width: 40rem) {
     .data-\[state\=open\]\:sm\:slide-in-from-bottom-full[data-state="open"] {
       --tw-enter-translate-y: calc(1 * 100%);
     }
@@ -4343,12 +4309,6 @@
   @media (min-width: 48rem) {
     .md\:max-w-\[420px\] {
       max-width: 420px;
-    }
-  }
-
-  @media (min-width: 48rem) {
-    .md\:scale-\[0\.6\] {
-      scale: .6;
     }
   }
 
@@ -4415,12 +4375,6 @@
   }
 
   @media (min-width: 48rem) {
-    .md\:text-\[10px\] {
-      font-size: 10px;
-    }
-  }
-
-  @media (min-width: 48rem) {
     .md\:leading-3 {
       --tw-leading: calc(var(--spacing) * 3);
       line-height: calc(var(--spacing) * 3);
@@ -4472,15 +4426,6 @@
   }
 
   @media (min-width: 64rem) {
-    .lg\:scale-100 {
-      --tw-scale-x: 100%;
-      --tw-scale-y: 100%;
-      --tw-scale-z: 100%;
-      scale: var(--tw-scale-x) var(--tw-scale-y);
-    }
-  }
-
-  @media (min-width: 64rem) {
     .lg\:text-lg {
       font-size: var(--text-lg);
       line-height: var(--tw-leading, var(--text-lg--line-height));
@@ -4490,12 +4435,6 @@
   @media (min-width: 64rem) {
     .lg\:text-\[1rem\] {
       font-size: 1rem;
-    }
-  }
-
-  @media (min-width: 64rem) {
-    .lg\:text-\[12px\] {
-      font-size: 12px;
     }
   }
 
@@ -5778,24 +5717,6 @@
   syntax: "*";
   inherits: false;
   initial-value: "";
-}
-
-@property --tw-scale-x {
-  syntax: "*";
-  inherits: false;
-  initial-value: 1;
-}
-
-@property --tw-scale-y {
-  syntax: "*";
-  inherits: false;
-  initial-value: 1;
-}
-
-@property --tw-scale-z {
-  syntax: "*";
-  inherits: false;
-  initial-value: 1;
 }
 
 @keyframes spin {

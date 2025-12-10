@@ -14,7 +14,7 @@ export default function HomePage() {
         <div className="container  overflow-hidden  h-full mx-auto px-4 py-24 md:py-32 relative z-10 flex flex-col justify-center">
           <div className="mx-auto relative w-full flex flex-col items-center text-center">
             <div className="mb-8  inline-block rounded-full border border-white text-white  px-4 py-1.5 text-xs md:text-sm opacity-75  uppercase tracking-widest">
-              Spring 2025
+              Spring 2026
             </div>
             <div className="  overflow-y-hidden mb-12 flex justify-center">
               <div className="inline-block   ">
@@ -29,14 +29,17 @@ export default function HomePage() {
               </div>
             </div>
 
-            <p className="bg-[rgb(14,27,245)] px-2 mb-10 max-w-2xl text-xs md:text-md lg:text-lg leading-relaxed text-white opacity-75">
+            <p className="bg-[rgb(14,27,245)] px-2 mb-10 max-w-2xl text-xs sm:text-sm md:text-md lg:text-lg leading-relaxed text-white opacity-75">
               A no-fluff cohort for extremely dedicated builders.{" "}
-              <br className="block" />
-              1hr/week. No curriculum. Just community + accountability.
+              <br className="block" />1 hr/week. No curriculum. Just community +
+              accountability.
             </p>
             <Button
               size="lg"
               className="group h-14 text-lg px-8 font-mono border-2 border-primary bg-transparent hover:bg-primary hover:text-primary-foreground text-primary rounded-none transition-all duration-300"
+              onClick={() => {
+                window.open("https://forms.gle/XfkEE5GLTqCHR41r9", "_blank");
+              }}
             >
               [ APPLY_HERE ]
               <ArrowRight className="ml-2 h-5 w-5 transition-transform group-hover:translate-x-1" />
@@ -63,19 +66,19 @@ export default function HomePage() {
                 that have impact.
                 <br />
                 <br />
-                It doesn't matter whether you're a founder coding an MVP for
-                your tech startup, a musician trying to get your music out
-                there, or a student trying to create personal content - we only
-                care that you want accomplish something great. As long as you
-                are truly dedicated to what you're doing and have
-                entrepreneurship-oriented goals, this is your place.
+                Whether you're a founder coding an MVP for your tech startup, a
+                musician trying to get your music out there, or a student trying
+                to grow your content creation platform - we just care that you
+                want to accomplish something great. As long as you are obsessed
+                with what you're doing and have entrepreneurship-oriented goals,
+                this is your place.
                 <br />
                 <br />
                 You'll be surrounded by people who are extremely ambitious, are
-                willing to take risks, and have an urgency and agency to{" "}
-                <span className="font-bold">do</span>. You'll also have access
-                to mentors, successful builders, investors, BU and MIT faculty,
-                and more.
+                willing to take risks, and have the urgency and agency to{" "}
+                <span className=" text-white bg-[rgb(14,27,245)] ">do</span>
+                . You'll also have access to mentors, successful founders,
+                investors, BU and MIT faculty, and more.
                 <br />
                 <br />
                 <span className="font-bold ">
@@ -106,11 +109,11 @@ export default function HomePage() {
                 "You're actively building something: a startup, a content page, or even your own community",
                 "You're willing to show up every week, consistently",
                 "You aren't afraid to experiment and take risks",
-                "You don't need to rely on a curriculum to stay on track",
+                "You have a sense of urgency (or want to use this as an excuse to start)",
                 "You're in the Boston area (BU students preferred, but not required)",
               ].map((text, i) => (
                 <div key={i} className="flex gap-4 items-start group">
-                  <div className="mt-1 flex h-5 w-5 shrink-0 items-center justify-center border border-primary text-primary text-xs font-bold group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
+                  <div className="mt-1.5 flex h-5 w-5 shrink-0 items-center justify-center border border-primary text-primary text-xs font-bold group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
                     X
                   </div>
                   <div>
@@ -296,6 +299,9 @@ export default function HomePage() {
             <Button
               size="lg"
               className="group h-14 text-lg px-8 font-mono border-2 border-primary bg-transparent hover:bg-primary hover:text-primary-foreground text-primary rounded-none transition-all duration-300"
+              onClick={() => {
+                window.open("https://forms.gle/XfkEE5GLTqCHR41r9", "_blank");
+              }}
             >
               [ APPLY_HERE ]
               <ArrowRight className="ml-2 h-5 w-5 transition-transform group-hover:translate-x-1" />
