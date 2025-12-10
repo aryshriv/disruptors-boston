@@ -20,6 +20,27 @@ export const metadata: Metadata = {
     "A no-fluff cohort for extremely dedicated builders. 1 hr/week. No curriculum. Just community + accountability.",
 
   icons: "/favicon.ico",
+  keywords: ["disruptors", "boston", "spring 2026", "cohort"],
+  authors: [
+    {
+      name: "Aryaman Shrivastava",
+      url: "https://www.linkedin.com/in/aryaman-shrivastava/",
+    },
+  ],
+  creator: "Aryaman Shrivastava",
+  publisher: "Aryaman Shrivastava",
+
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
 };
 
 export default function RootLayout({
