@@ -2104,6 +2104,10 @@
     font-size: .8rem;
   }
 
+  .text-\[1\.8vw\] {
+    font-size: 1.8vw;
+  }
+
   .text-\[10px\] {
     font-size: 10px;
   }
@@ -4493,6 +4497,12 @@
   }
 
   @media (min-width: 48rem) {
+    .md\:text-\[10px\] {
+      font-size: 10px;
+    }
+  }
+
+  @media (min-width: 48rem) {
     .md\:leading-3 {
       --tw-leading: calc(var(--spacing) * 3);
       line-height: calc(var(--spacing) * 3);
@@ -4553,6 +4563,12 @@
   @media (min-width: 64rem) {
     .lg\:text-\[1rem\] {
       font-size: 1rem;
+    }
+  }
+
+  @media (min-width: 64rem) {
+    .lg\:text-\[12px\] {
+      font-size: 12px;
     }
   }
 

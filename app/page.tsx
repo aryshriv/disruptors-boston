@@ -16,13 +16,16 @@ export default function HomePage() {
             <div className="mb-8  inline-block rounded-full border border-white text-white  px-4 py-1.5 text-xs md:text-sm opacity-75  uppercase tracking-widest">
               Spring 2026
             </div>
-            <div className="  overflow-y-hidden mb-12 flex justify-center">
-              <div className="inline-block   ">
+            <div className="w-full mb-12  flex justify-center">
+              <div className="inline-block text-center">
                 <pre
                   style={{
-                    fontFamily: "SF Mono",
+                    fontFamily:
+                      "SF Mono, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
+                    fontVariantLigatures: "none",
+                    WebkitFontSmoothing: "antialiased",
                   }}
-                  className="   p-0 m-0 text-[0.4rem] sm:text-[0.6rem] md:text-[0.8rem] lg:text-[1rem] leading-1.5 sm:leading-2 md:leading-3 lg:leading-4  text-primary whitespace-pre  font-mono  tracking-normal"
+                  className="inline-block leading-none text-primary whitespace-pre font-mono tracking-normal text-[1.8vw] md:text-[10px] lg:text-[12px]"
                 >
                   {DISRUPTORS_ASCII}
                 </pre>
