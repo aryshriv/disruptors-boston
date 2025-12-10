@@ -166,9 +166,9 @@ function HomePage() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "container h-full mx-auto px-4 py-24 md:py-32 relative z-10 flex flex-col justify-center",
+                        className: "container  overflow-hidden  h-full mx-auto px-4 py-24 md:py-32 relative z-10 flex flex-col justify-center",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "mx-auto max-w-5xl flex flex-col items-center text-center",
+                            className: "mx-auto relative w-full flex flex-col items-center text-center",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "mb-8  inline-block rounded-full border border-white text-white  px-4 py-1.5 text-xs md:text-sm opacity-75  uppercase tracking-widest",
@@ -179,28 +179,28 @@ function HomePage() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "w-full overflow-x-auto overflow-y-hidden mb-12 flex justify-center",
+                                    className: "  overflow-y-hidden mb-12 flex justify-center",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "inline-block  ",
+                                        className: "inline-block   ",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("pre", {
                                             style: {
                                                 fontFamily: "SF Mono"
                                             },
-                                            className: "text-[0.6rem] md:text-[0.8rem] lg:text-[1rem] leading-2.5 md:leading-3 lg:leading-4  text-primary whitespace-pre  font-mono  tracking-normal",
+                                            className: "   p-0 m-0 text-[0.6rem] md:text-[0.8rem] lg:text-[1rem] leading-2.5 md:leading-3 lg:leading-4  text-primary whitespace-pre  font-mono  tracking-normal",
                                             children: __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$components$2f$ascii$2d$art$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["DISRUPTORS_ASCII"]
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                            lineNumber: 21,
+                                            lineNumber: 20,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                        lineNumber: 20,
+                                        lineNumber: 19,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                    lineNumber: 19,
+                                    lineNumber: 18,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -212,14 +212,14 @@ function HomePage() {
                                             className: "block"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                            lineNumber: 34,
+                                            lineNumber: 33,
                                             columnNumber: 15
                                         }, this),
                                         "1hr/week. No curriculum. Just community + accountability."
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                    lineNumber: 32,
+                                    lineNumber: 31,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
@@ -231,13 +231,13 @@ function HomePage() {
                                             className: "ml-2 h-5 w-5 transition-transform group-hover:translate-x-1"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                            lineNumber: 43,
+                                            lineNumber: 41,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                    lineNumber: 38,
+                                    lineNumber: 36,
                                     columnNumber: 13
                                 }, this)
                             ]
@@ -269,7 +269,7 @@ function HomePage() {
                                 children: "> HUH?"
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 53,
+                                lineNumber: 51,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -277,35 +277,45 @@ function HomePage() {
                                 children: "What is this?"
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 56,
+                                lineNumber: 54,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     children: [
-                                        "Boston has a very high density of smart and ambitious people, but they're hard to find. We want to create a space where people with similar life goals can find each other and help each other build things that have impact.",
+                                        "Boston has a very high density of smart and ambitious people, but they're hard to find. We want to create a space where people with similar life goals can find each other and build things that have impact.",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                            lineNumber: 65,
+                                            lineNumber: 63,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                            lineNumber: 66,
+                                            lineNumber: 64,
                                             columnNumber: 17
                                         }, this),
-                                        "It doesn't matter if you're a founder coding an MVP for your tech startup, a musician trying to get your music out there, or a student trying to create personal content, please apply! As long as you are actually dedicated to what you're doing and have entrepreneurship-oriented goals, this is your place.",
+                                        "It doesn't matter whether you're a founder coding an MVP for your tech startup, a musician trying to get your music out there, or a student trying to create personal content - we only care that you want accomplish something great. As long as you are truly dedicated to what you're doing and have entrepreneurship-oriented goals, this is your place.",
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                            fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                            lineNumber: 71,
+                                            columnNumber: 17
+                                        }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
                                             lineNumber: 72,
                                             columnNumber: 17
                                         }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                        "You'll be surrounded by people who are extremely ambitious, are willing to take risks, and have an urgency and agency to",
+                                        " ",
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: "font-bold",
+                                            children: "do"
+                                        }, void 0, false, {
                                             fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                            lineNumber: 73,
+                                            lineNumber: 75,
                                             columnNumber: 17
                                         }, this),
-                                        "You'll be surrounded by people who are extremely ambitious, are willing to take risks, and have an urgency to do. You'll also have access to mentors, successful builders, investors, BU and MIT faculty, and more.",
+                                        ". You'll also have access to mentors, successful builders, investors, BU and MIT faculty, and more.",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
                                             lineNumber: 78,
@@ -327,28 +337,28 @@ function HomePage() {
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                    lineNumber: 60,
+                                    lineNumber: 58,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 59,
+                                lineNumber: 57,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                        lineNumber: 52,
+                        lineNumber: 50,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                    lineNumber: 51,
+                    lineNumber: 49,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                lineNumber: 50,
+                lineNumber: 48,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -391,7 +401,7 @@ function HomePage() {
                                 children: [
                                     [
                                         "You're actively building something: a startup, a content page, or even your own community",
-                                        "You can show up every week, consistently",
+                                        "You're willing to show up every week, consistently",
                                         "You aren't afraid to experiment and take risks",
                                         "You don't need to rely on a curriculum to stay on track",
                                         "You're in the Boston area (BU students preferred, but not required)"
@@ -496,7 +506,7 @@ function HomePage() {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                 className: "mb-12 text-3xl md:text-4xl font-bold text-balance",
-                                children: "Who runs this?"
+                                children: "Who's running this?"
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
                                 lineNumber: 143,
@@ -513,7 +523,10 @@ function HomePage() {
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                     src: "https://firebasestorage.googleapis.com/v0/b/stava-f6b32.appspot.com/o/IMG_7543.jpg?alt=media&token=75774781-6a51-45b7-a279-3b42360cd534",
                                                     alt: "Ary Shrivastava",
-                                                    className: "h-full w-full object-cover"
+                                                    className: "h-full w-full object-cover",
+                                                    onClick: ()=>{
+                                                        window.open("https://www.linkedin.com/in/aryaman-shrivastava/", "_blank");
+                                                    }
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
                                                     lineNumber: 150,
@@ -524,12 +537,14 @@ function HomePage() {
                                                 lineNumber: 149,
                                                 columnNumber: 17
                                             }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                className: " text-xl font-bold uppercase",
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                href: "https://www.linkedin.com/in/aryaman-shrivastava/",
+                                                target: "_blank",
+                                                className: " text-xl font-bold uppercase ",
                                                 children: "Ary Shrivastava"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                lineNumber: 158,
+                                                lineNumber: 164,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -537,28 +552,29 @@ function HomePage() {
                                                 children: "Co-Lead"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                lineNumber: 161,
+                                                lineNumber: 171,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text-sm text-white uppercase tracking-wider",
                                                 children: [
-                                                    "CS@BU. Contributor @ MIT NANDA. Currently building agent coordination at",
+                                                    "CS @ BU. Contributor @ MIT NANDA. Currently building agent coordination at",
                                                     " ",
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                         href: "https://endercom.io",
+                                                        target: "_blank",
                                                         className: "underline",
                                                         children: "endercom.io"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                        lineNumber: 167,
+                                                        lineNumber: 177,
                                                         columnNumber: 19
                                                     }, this),
                                                     ". Previously worked with the ESA."
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                lineNumber: 164,
+                                                lineNumber: 174,
                                                 columnNumber: 17
                                             }, this)
                                         ]
@@ -575,23 +591,28 @@ function HomePage() {
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                     src: "https://firebasestorage.googleapis.com/v0/b/stava-f6b32.appspot.com/o/1702059271200.jpeg?alt=media&token=b6ec6698-3c10-4f04-9982-717f1787230e",
                                                     alt: "Aryan Jain",
-                                                    className: "h-full w-full object-cover"
+                                                    className: "h-full w-full object-cover",
+                                                    onClick: ()=>{
+                                                        window.open("https://www.linkedin.com/in/aryanjain6492/", "_blank");
+                                                    }
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                    lineNumber: 175,
+                                                    lineNumber: 189,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                lineNumber: 174,
+                                                lineNumber: 188,
                                                 columnNumber: 17
                                             }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                className: " text-xl font-bold uppercase",
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                href: "https://www.linkedin.com/in/aryanjain6492/",
+                                                target: "_blank",
+                                                className: " text-xl font-bold uppercase ",
                                                 children: "Aryan Jain"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                lineNumber: 183,
+                                                lineNumber: 203,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -599,21 +620,35 @@ function HomePage() {
                                                 children: "Co-Lead"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                lineNumber: 184,
+                                                lineNumber: 210,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text-sm text-white uppercase tracking-wider",
-                                                children: "Test"
-                                            }, void 0, false, {
+                                                children: [
+                                                    "DS and Econ @ BU. Founder of",
+                                                    " ",
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                        href: "https://designmy.org",
+                                                        target: "_blank",
+                                                        className: "underline",
+                                                        children: "DesignMy Education"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                                        lineNumber: 215,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    ": turning youth entrepreneurship more experiential and accessible."
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                lineNumber: 187,
+                                                lineNumber: 213,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                        lineNumber: 173,
+                                        lineNumber: 187,
                                         columnNumber: 15
                                     }, this)
                                 ]
@@ -650,7 +685,7 @@ function HomePage() {
                                 children: "> FAQ"
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 200,
+                                lineNumber: 235,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -658,7 +693,7 @@ function HomePage() {
                                 children: "Everything you need to know."
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 203,
+                                lineNumber: 238,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("dl", {
@@ -689,7 +724,7 @@ function HomePage() {
                                                     children: `// ${item.label}`
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                    lineNumber: 229,
+                                                    lineNumber: 264,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("dd", {
@@ -697,13 +732,13 @@ function HomePage() {
                                                     children: item.value
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                    lineNumber: 232,
+                                                    lineNumber: 267,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, i, true, {
                                             fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                            lineNumber: 228,
+                                            lineNumber: 263,
                                             columnNumber: 17
                                         }, this)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -714,7 +749,7 @@ function HomePage() {
                                                 children: "// Can I apply if I don't have an idea to work on yet?"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                lineNumber: 236,
+                                                lineNumber: 271,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("dd", {
@@ -727,41 +762,41 @@ function HomePage() {
                                                         children: "TLDR; yes that's fine!"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                        lineNumber: 242,
+                                                        lineNumber: 277,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                lineNumber: 239,
+                                                lineNumber: 274,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                        lineNumber: 235,
+                                        lineNumber: 270,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 207,
+                                lineNumber: 242,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                        lineNumber: 199,
+                        lineNumber: 234,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                    lineNumber: 198,
+                    lineNumber: 233,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                lineNumber: 197,
+                lineNumber: 232,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -776,7 +811,7 @@ function HomePage() {
                                 children: "Ready to build?"
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 254,
+                                lineNumber: 289,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -784,7 +819,7 @@ function HomePage() {
                                 children: "Applications are open now."
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 257,
+                                lineNumber: 292,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
@@ -796,29 +831,29 @@ function HomePage() {
                                         className: "ml-2 h-5 w-5 transition-transform group-hover:translate-x-1"
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                        lineNumber: 265,
+                                        lineNumber: 300,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 260,
+                                lineNumber: 295,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                        lineNumber: 253,
+                        lineNumber: 288,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                    lineNumber: 252,
+                    lineNumber: 287,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                lineNumber: 251,
+                lineNumber: 286,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
@@ -832,22 +867,22 @@ function HomePage() {
                             children: "Questions? Reach out to us directly at ary@stava.io"
                         }, void 0, false, {
                             fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                            lineNumber: 275,
+                            lineNumber: 310,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                        lineNumber: 274,
+                        lineNumber: 309,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                    lineNumber: 273,
+                    lineNumber: 308,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                lineNumber: 272,
+                lineNumber: 307,
                 columnNumber: 7
             }, this)
         ]

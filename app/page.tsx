@@ -1,3 +1,4 @@
+"use client";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 import { AsciiBorder } from "@/components/ascii-border";
@@ -10,19 +11,18 @@ export default function HomePage() {
       {/* Hero Section */}
       <div className="relative w-full h-screen overflow-hidden">
         <AsciiBackground />
-        <div className="container h-full mx-auto px-4 py-24 md:py-32 relative z-10 flex flex-col justify-center">
-          <div className="mx-auto max-w-5xl flex flex-col items-center text-center">
+        <div className="container  overflow-hidden  h-full mx-auto px-4 py-24 md:py-32 relative z-10 flex flex-col justify-center">
+          <div className="mx-auto relative w-full flex flex-col items-center text-center">
             <div className="mb-8  inline-block rounded-full border border-white text-white  px-4 py-1.5 text-xs md:text-sm opacity-75  uppercase tracking-widest">
               Spring 2025
             </div>
-
-            <div className="w-full overflow-x-auto overflow-y-hidden mb-12 flex justify-center">
-              <div className="inline-block  ">
+            <div className="  overflow-y-hidden mb-12 flex justify-center">
+              <div className="inline-block   ">
                 <pre
                   style={{
                     fontFamily: "SF Mono",
                   }}
-                  className="text-[0.6rem] md:text-[0.8rem] lg:text-[1rem] leading-2.5 md:leading-3 lg:leading-4  text-primary whitespace-pre  font-mono  tracking-normal"
+                  className="   p-0 m-0 text-[0.6rem] md:text-[0.8rem] lg:text-[1rem] leading-2.5 md:leading-3 lg:leading-4  text-primary whitespace-pre  font-mono  tracking-normal"
                 >
                   {DISRUPTORS_ASCII}
                 </pre>
@@ -34,7 +34,6 @@ export default function HomePage() {
               <br className="block" />
               1hr/week. No curriculum. Just community + accountability.
             </p>
-
             <Button
               size="lg"
               className="group h-14 text-lg px-8 font-mono border-2 border-primary bg-transparent hover:bg-primary hover:text-primary-foreground text-primary rounded-none transition-all duration-300"
@@ -60,21 +59,23 @@ export default function HomePage() {
               <p>
                 Boston has a very high density of smart and ambitious people,
                 but they're hard to find. We want to create a space where people
-                with similar life goals can find each other and help each other
-                build things that have impact.
+                with similar life goals can find each other and build things
+                that have impact.
                 <br />
                 <br />
-                It doesn't matter if you're a founder coding an MVP for your
-                tech startup, a musician trying to get your music out there, or
-                a student trying to create personal content, please apply! As
-                long as you are actually dedicated to what you're doing and have
+                It doesn't matter whether you're a founder coding an MVP for
+                your tech startup, a musician trying to get your music out
+                there, or a student trying to create personal content - we only
+                care that you want accomplish something great. As long as you
+                are truly dedicated to what you're doing and have
                 entrepreneurship-oriented goals, this is your place.
                 <br />
                 <br />
                 You'll be surrounded by people who are extremely ambitious, are
-                willing to take risks, and have an urgency to do. You'll also
-                have access to mentors, successful builders, investors, BU and
-                MIT faculty, and more.
+                willing to take risks, and have an urgency and agency to{" "}
+                <span className="font-bold">do</span>. You'll also have access
+                to mentors, successful builders, investors, BU and MIT faculty,
+                and more.
                 <br />
                 <br />
                 <span className="font-bold ">
@@ -103,7 +104,7 @@ export default function HomePage() {
             <div className="space-y-6">
               {[
                 "You're actively building something: a startup, a content page, or even your own community",
-                "You can show up every week, consistently",
+                "You're willing to show up every week, consistently",
                 "You aren't afraid to experiment and take risks",
                 "You don't need to rely on a curriculum to stay on track",
                 "You're in the Boston area (BU students preferred, but not required)",
@@ -141,7 +142,7 @@ export default function HomePage() {
               &gt; THE TEAM
             </h2>
             <h3 className="mb-12 text-3xl md:text-4xl font-bold text-balance">
-              Who runs this?
+              Who's running this?
             </h3>
 
             <div className="grid gap-8 md:grid-cols-2">
@@ -152,19 +153,33 @@ export default function HomePage() {
                       "https://firebasestorage.googleapis.com/v0/b/stava-f6b32.appspot.com/o/IMG_7543.jpg?alt=media&token=75774781-6a51-45b7-a279-3b42360cd534"
                     }
                     alt={"Ary Shrivastava"}
-                    className="h-full w-full object-cover"
+                    className="h-full w-full object-cover cursor-pointer"
+                    onClick={() => {
+                      window.open(
+                        "https://www.linkedin.com/in/aryaman-shrivastava/",
+                        "_blank"
+                      );
+                    }}
                   />
                 </div>
-                <h4 className=" text-xl font-bold uppercase">
+                <a
+                  href="https://www.linkedin.com/in/aryaman-shrivastava/"
+                  target="_blank"
+                  className=" text-xl font-bold uppercase "
+                >
                   Ary Shrivastava
-                </h4>
+                </a>
                 <p className="text-sm mb-1 text-muted-foreground uppercase tracking-wider">
                   Co-Lead
                 </p>
                 <p className="text-sm text-white uppercase tracking-wider">
-                  CS@BU. Contributor @ MIT NANDA. Currently building agent
+                  CS @ BU. Contributor @ MIT NANDA. Currently building agent
                   coordination at{" "}
-                  <a href="https://endercom.io" className="underline">
+                  <a
+                    href="https://endercom.io"
+                    target="_blank"
+                    className="underline"
+                  >
                     endercom.io
                   </a>
                   . Previously worked with the ESA.
@@ -177,15 +192,36 @@ export default function HomePage() {
                       "https://firebasestorage.googleapis.com/v0/b/stava-f6b32.appspot.com/o/1702059271200.jpeg?alt=media&token=b6ec6698-3c10-4f04-9982-717f1787230e"
                     }
                     alt={"Aryan Jain"}
-                    className="h-full w-full object-cover"
+                    className="h-full w-full object-cover cursor-pointer"
+                    onClick={() => {
+                      window.open(
+                        "https://www.linkedin.com/in/aryanjain6492/",
+                        "_blank"
+                      );
+                    }}
                   />
                 </div>
-                <h4 className=" text-xl font-bold uppercase">Aryan Jain</h4>
+                <a
+                  href="https://www.linkedin.com/in/aryanjain6492/"
+                  target="_blank"
+                  className=" text-xl font-bold uppercase "
+                >
+                  Aryan Jain
+                </a>
                 <p className="text-sm mb-1 text-muted-foreground uppercase tracking-wider">
                   Co-Lead
                 </p>
                 <p className="text-sm text-white uppercase tracking-wider">
-                  Test
+                  DS and Econ @ BU. Founder of{" "}
+                  <a
+                    href="https://designmy.org"
+                    target="_blank"
+                    className="underline"
+                  >
+                    DesignMy Education
+                  </a>
+                  : turning youth entrepreneurship more experiential and
+                  accessible.
                 </p>
               </div>
             </div>
