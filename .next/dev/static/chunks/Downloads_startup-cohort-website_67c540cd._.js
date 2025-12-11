@@ -507,7 +507,7 @@ function HomePage() {
                                 children: [
                                     [
                                         "You're actively building something: a startup, a content page, or even your own community",
-                                        "You're willing to show up every week, consistently",
+                                        "You're willing to show up every Tuesday from 7-8pm",
                                         "You aren't afraid to experiment and take risks",
                                         "You have a sense of urgency (or want to use this as an excuse to start)",
                                         "You're in the Boston area (BU students preferred, but not required)"
@@ -820,7 +820,7 @@ function HomePage() {
                                         },
                                         {
                                             label: "When and where does it start?",
-                                            value: "Spring 2026 semester. Innovate@BU building. We'll send you the details when you get in."
+                                            value: "Spring 2026 semester. Innovate@BU building. Tuesdays from 7-8pm."
                                         }
                                     ].map((item, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "border-l-2 border-primary pl-6",

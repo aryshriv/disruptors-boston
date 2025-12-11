@@ -76,7 +76,32 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$coho
 const metadata = {
     title: "Disruptors | Spring 2026",
     description: "A no-fluff cohort for extremely dedicated builders. 1 hr/week. No curriculum. Just community + accountability.",
-    icons: "/favicon.ico"
+    icons: "/favicon.ico",
+    keywords: [
+        "disruptors",
+        "boston",
+        "spring 2026",
+        "cohort"
+    ],
+    authors: [
+        {
+            name: "Aryaman Shrivastava",
+            url: "https://www.linkedin.com/in/aryaman-shrivastava/"
+        }
+    ],
+    creator: "Aryaman Shrivastava",
+    publisher: "Aryaman Shrivastava",
+    robots: {
+        index: true,
+        follow: true,
+        googleBot: {
+            index: true,
+            follow: true,
+            "max-video-preview": -1,
+            "max-image-preview": "large",
+            "max-snippet": -1
+        }
+    }
 };
 function RootLayout({ children }) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("html", {
@@ -87,18 +112,18 @@ function RootLayout({ children }) {
                 children,
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f40$vercel$2f$analytics$2f$dist$2f$next$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Analytics"], {}, void 0, false, {
                     fileName: "[project]/Downloads/startup-cohort-website/app/layout.tsx",
-                    lineNumber: 35,
+                    lineNumber: 57,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/Downloads/startup-cohort-website/app/layout.tsx",
-            lineNumber: 31,
+            lineNumber: 53,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/Downloads/startup-cohort-website/app/layout.tsx",
-        lineNumber: 30,
+        lineNumber: 52,
         columnNumber: 5
     }, this);
 }

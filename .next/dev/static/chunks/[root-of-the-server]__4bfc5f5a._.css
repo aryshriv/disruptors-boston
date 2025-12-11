@@ -731,10 +731,6 @@
     margin: calc(var(--spacing) * 0) !important;
   }
 
-  .m-0 {
-    margin: calc(var(--spacing) * 0);
-  }
-
   .-mx-1 {
     margin-inline: calc(var(--spacing) * -1);
   }
@@ -789,6 +785,10 @@
 
   .mt-auto {
     margin-top: auto;
+  }
+
+  .mb-0 {
+    margin-bottom: calc(var(--spacing) * 0);
   }
 
   .mb-1 {
@@ -1580,10 +1580,6 @@
     overflow-y: auto;
   }
 
-  .overflow-y-hidden {
-    overflow-y: hidden;
-  }
-
   .rounded-\[2px\] {
     border-radius: 2px;
   }
@@ -2088,18 +2084,6 @@
     line-height: var(--tw-leading, var(--text-xs--line-height));
   }
 
-  .text-\[0\.2rem\] {
-    font-size: .2rem;
-  }
-
-  .text-\[0\.4rem\] {
-    font-size: .4rem;
-  }
-
-  .text-\[0\.6rem\] {
-    font-size: .6rem;
-  }
-
   .text-\[0\.8rem\] {
     font-size: .8rem;
   }
@@ -2110,16 +2094,6 @@
 
   .text-\[10px\] {
     font-size: 10px;
-  }
-
-  .leading-1\.5 {
-    --tw-leading: calc(var(--spacing) * 1.5);
-    line-height: calc(var(--spacing) * 1.5);
-  }
-
-  .leading-2\.5 {
-    --tw-leading: calc(var(--spacing) * 2.5);
-    line-height: calc(var(--spacing) * 2.5);
   }
 
   .leading-\[12px\] {
@@ -4368,15 +4342,9 @@
   }
 
   @media (min-width: 40rem) {
-    .sm\:text-\[0\.6rem\] {
-      font-size: .6rem;
-    }
-  }
-
-  @media (min-width: 40rem) {
-    .sm\:leading-2 {
-      --tw-leading: calc(var(--spacing) * 2);
-      line-height: calc(var(--spacing) * 2);
+    .sm\:text-xs {
+      font-size: var(--text-xs);
+      line-height: var(--tw-leading, var(--text-xs--line-height));
     }
   }
 
@@ -4491,21 +4459,8 @@
   }
 
   @media (min-width: 48rem) {
-    .md\:text-\[0\.8rem\] {
-      font-size: .8rem;
-    }
-  }
-
-  @media (min-width: 48rem) {
     .md\:text-\[10px\] {
       font-size: 10px;
-    }
-  }
-
-  @media (min-width: 48rem) {
-    .md\:leading-3 {
-      --tw-leading: calc(var(--spacing) * 3);
-      line-height: calc(var(--spacing) * 3);
     }
   }
 
@@ -4561,21 +4516,8 @@
   }
 
   @media (min-width: 64rem) {
-    .lg\:text-\[1rem\] {
-      font-size: 1rem;
-    }
-  }
-
-  @media (min-width: 64rem) {
     .lg\:text-\[12px\] {
       font-size: 12px;
-    }
-  }
-
-  @media (min-width: 64rem) {
-    .lg\:leading-4 {
-      --tw-leading: calc(var(--spacing) * 4);
-      line-height: calc(var(--spacing) * 4);
     }
   }
 

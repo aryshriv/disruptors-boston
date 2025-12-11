@@ -110,7 +110,7 @@ export default function HomePage() {
             <div className="space-y-6">
               {[
                 "You're actively building something: a startup, a content page, or even your own community",
-                "You're willing to show up every week, consistently",
+                "You're willing to show up every Tuesday from 7-8pm",
                 "You aren't afraid to experiment and take risks",
                 "You have a sense of urgency (or want to use this as an excuse to start)",
                 "You're in the Boston area (BU students preferred, but not required)",
@@ -264,7 +264,7 @@ export default function HomePage() {
                 {
                   label: "When and where does it start?",
                   value:
-                    "Spring 2026 semester. Innovate@BU building. We'll send you the details when you get in.",
+                    "Spring 2026 semester. Innovate@BU building. Tuesdays from 7-8pm.",
                 },
               ].map((item, i) => (
                 <div key={i} className="border-l-2 border-primary pl-6">
