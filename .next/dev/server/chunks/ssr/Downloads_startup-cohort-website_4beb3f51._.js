@@ -725,6 +725,114 @@ function HomePage() {
                                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
                                         lineNumber: 194,
                                         columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "group relative overflow-hidden border-dashed border border-primary bg-[rgb(14,27,245)] p-6",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "mb-4 h-24 w-24 overflow-hidden rounded-xl  border-primary  transition-all duration-300 group-hover:grayscale-0",
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                                    src: "https://firebasestorage.googleapis.com/v0/b/stava-f6b32.appspot.com/o/Screenshot%202026-02-26%20at%2000.33.25.jpg?alt=media&token=c56d57bd-a2a7-49d0-9af6-39a21b00204d",
+                                                    alt: "Bill Jiao",
+                                                    className: "h-full w-full object-cover cursor-pointer",
+                                                    onClick: ()=>{
+                                                        window.open("https://www.linkedin.com/in/zhandong-jiao/", "_blank");
+                                                    }
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                                    lineNumber: 235,
+                                                    columnNumber: 19
+                                                }, this)
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                                lineNumber: 234,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                href: "https://www.linkedin.com/in/zhandong-jiao/",
+                                                target: "_blank",
+                                                className: " text-xl font-bold uppercase ",
+                                                children: "Bill Jiao"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                                lineNumber: 249,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-sm mb-1 text-muted-foreground uppercase tracking-wider",
+                                                children: "Co-Lead"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                                lineNumber: 256,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-sm text-white uppercase tracking-wider",
+                                                children: "CS + Stats @ BU. Currently YC X26."
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                                lineNumber: 259,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                        lineNumber: 233,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "group relative overflow-hidden border-dashed border border-primary bg-[rgb(14,27,245)] p-6",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "mb-4 h-24 w-24 overflow-hidden rounded-xl  border-primary  transition-all duration-300 group-hover:grayscale-0",
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                                    src: "https://media.licdn.com/dms/image/v2/D5603AQEUM5lROBlz8Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677120097811?e=1773878400&v=beta&t=zp5OdyYO3OdF3usyXnnZPHYJWqZt_SiUHYs7YoMS7QU",
+                                                    alt: "Bill Jiao",
+                                                    className: "h-full w-full object-cover cursor-pointer",
+                                                    onClick: ()=>{
+                                                        window.open("https://www.linkedin.com/in/nicoledebow/", "_blank");
+                                                    }
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                                    lineNumber: 265,
+                                                    columnNumber: 19
+                                                }, this)
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                                lineNumber: 264,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                href: "https://www.linkedin.com/in/nicoledebow/",
+                                                target: "_blank",
+                                                className: " text-xl font-bold uppercase ",
+                                                children: "Nicole Debow"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                                lineNumber: 279,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-sm mb-1 text-muted-foreground uppercase tracking-wider",
+                                                children: "Co-Lead"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                                lineNumber: 286,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-sm text-white uppercase tracking-wider",
+                                                children: "DS @ BU. Growth @ Kalshi."
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                                lineNumber: 289,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
+                                        lineNumber: 263,
+                                        columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
@@ -760,7 +868,7 @@ function HomePage() {
                                 children: "> FAQ"
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 242,
+                                lineNumber: 302,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -768,7 +876,7 @@ function HomePage() {
                                 children: "Everything you need to know."
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 245,
+                                lineNumber: 305,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("dl", {
@@ -799,7 +907,7 @@ function HomePage() {
                                                     children: `// ${item.label}`
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                    lineNumber: 271,
+                                                    lineNumber: 331,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("dd", {
@@ -807,13 +915,13 @@ function HomePage() {
                                                     children: item.value
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                    lineNumber: 274,
+                                                    lineNumber: 334,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, i, true, {
                                             fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                            lineNumber: 270,
+                                            lineNumber: 330,
                                             columnNumber: 17
                                         }, this)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -824,7 +932,7 @@ function HomePage() {
                                                 children: "// Can I apply if I don't have an idea to work on yet?"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                lineNumber: 278,
+                                                lineNumber: 338,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("dd", {
@@ -837,41 +945,41 @@ function HomePage() {
                                                         children: "TLDR; yes that's fine!"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                        lineNumber: 284,
+                                                        lineNumber: 344,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                                lineNumber: 281,
+                                                lineNumber: 341,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                        lineNumber: 277,
+                                        lineNumber: 337,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 249,
+                                lineNumber: 309,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                        lineNumber: 241,
+                        lineNumber: 301,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                    lineNumber: 240,
+                    lineNumber: 300,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                lineNumber: 239,
+                lineNumber: 299,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -886,7 +994,7 @@ function HomePage() {
                                 children: "Ready to build?"
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 296,
+                                lineNumber: 356,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -894,7 +1002,7 @@ function HomePage() {
                                 children: "Applications are open now."
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 299,
+                                lineNumber: 359,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
@@ -909,29 +1017,29 @@ function HomePage() {
                                         className: "ml-2 h-5 w-5 transition-transform group-hover:translate-x-1"
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                        lineNumber: 310,
+                                        lineNumber: 370,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                                lineNumber: 302,
+                                lineNumber: 362,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                        lineNumber: 295,
+                        lineNumber: 355,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                    lineNumber: 294,
+                    lineNumber: 354,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                lineNumber: 293,
+                lineNumber: 353,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$startup$2d$cohort$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
@@ -945,22 +1053,22 @@ function HomePage() {
                             children: "Questions? Reach out to us directly at ary@stava.io"
                         }, void 0, false, {
                             fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                            lineNumber: 320,
+                            lineNumber: 380,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                        lineNumber: 319,
+                        lineNumber: 379,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                    lineNumber: 318,
+                    lineNumber: 378,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/startup-cohort-website/app/page.tsx",
-                lineNumber: 317,
+                lineNumber: 377,
                 columnNumber: 7
             }, this)
         ]

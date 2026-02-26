@@ -163,7 +163,7 @@ export default function HomePage() {
                     onClick={() => {
                       window.open(
                         "https://www.linkedin.com/in/aryaman-shrivastava/",
-                        "_blank"
+                        "_blank",
                       );
                     }}
                   />
@@ -202,7 +202,7 @@ export default function HomePage() {
                     onClick={() => {
                       window.open(
                         "https://www.linkedin.com/in/aryanjain6492/",
-                        "_blank"
+                        "_blank",
                       );
                     }}
                   />
@@ -228,6 +228,66 @@ export default function HomePage() {
                   </a>
                   : turning youth entrepreneurship more experiential and
                   accessible.
+                </p>
+              </div>
+              <div className="group relative overflow-hidden border-dashed border border-primary bg-[rgb(14,27,245)] p-6">
+                <div className="mb-4 h-24 w-24 overflow-hidden rounded-xl  border-primary  transition-all duration-300 group-hover:grayscale-0">
+                  <img
+                    src={
+                      "https://firebasestorage.googleapis.com/v0/b/stava-f6b32.appspot.com/o/Screenshot%202026-02-26%20at%2000.33.25.jpg?alt=media&token=c56d57bd-a2a7-49d0-9af6-39a21b00204d"
+                    }
+                    alt={"Bill Jiao"}
+                    className="h-full w-full object-cover cursor-pointer"
+                    onClick={() => {
+                      window.open(
+                        "https://www.linkedin.com/in/zhandong-jiao/",
+                        "_blank",
+                      );
+                    }}
+                  />
+                </div>
+                <a
+                  href="https://www.linkedin.com/in/zhandong-jiao/"
+                  target="_blank"
+                  className=" text-xl font-bold uppercase "
+                >
+                  Bill Jiao
+                </a>
+                <p className="text-sm mb-1 text-muted-foreground uppercase tracking-wider">
+                  Co-Lead
+                </p>
+                <p className="text-sm text-white uppercase tracking-wider">
+                  CS + Stats @ BU. Currently YC X26.
+                </p>
+              </div>
+              <div className="group relative overflow-hidden border-dashed border border-primary bg-[rgb(14,27,245)] p-6">
+                <div className="mb-4 h-24 w-24 overflow-hidden rounded-xl  border-primary  transition-all duration-300 group-hover:grayscale-0">
+                  <img
+                    src={
+                      "https://media.licdn.com/dms/image/v2/D5603AQEUM5lROBlz8Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677120097811?e=1773878400&v=beta&t=zp5OdyYO3OdF3usyXnnZPHYJWqZt_SiUHYs7YoMS7QU"
+                    }
+                    alt={"Bill Jiao"}
+                    className="h-full w-full object-cover cursor-pointer"
+                    onClick={() => {
+                      window.open(
+                        "https://www.linkedin.com/in/nicoledebow/",
+                        "_blank",
+                      );
+                    }}
+                  />
+                </div>
+                <a
+                  href="https://www.linkedin.com/in/nicoledebow/"
+                  target="_blank"
+                  className=" text-xl font-bold uppercase "
+                >
+                  Nicole Debow
+                </a>
+                <p className="text-sm mb-1 text-muted-foreground uppercase tracking-wider">
+                  Co-Lead
+                </p>
+                <p className="text-sm text-white uppercase tracking-wider">
+                  DS @ BU. Growth @ Kalshi.
                 </p>
               </div>
             </div>

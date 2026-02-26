@@ -787,10 +787,6 @@
     margin-top: auto;
   }
 
-  .mb-0 {
-    margin-bottom: calc(var(--spacing) * 0);
-  }
-
   .mb-1 {
     margin-bottom: calc(var(--spacing) * 1);
   }
@@ -4338,13 +4334,6 @@
     .sm\:text-sm {
       font-size: var(--text-sm);
       line-height: var(--tw-leading, var(--text-sm--line-height));
-    }
-  }
-
-  @media (min-width: 40rem) {
-    .sm\:text-xs {
-      font-size: var(--text-xs);
-      line-height: var(--tw-leading, var(--text-xs--line-height));
     }
   }
 
