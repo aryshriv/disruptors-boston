@@ -287,7 +287,8 @@ export default function HomePage() {
                   Co-Lead
                 </p>
                 <p className="text-sm text-white uppercase tracking-wider">
-                  DS @ BU. Growth @ Kalshi.
+                  DS @ BU. Previously worked at Kalshi, now working in the VC
+                  space.
                 </p>
               </div>
             </div>
