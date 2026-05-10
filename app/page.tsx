@@ -179,14 +179,14 @@ export default function HomePage() {
                   Co-Lead
                 </p>
                 <p className="text-sm text-white uppercase tracking-wider">
-                  CS @ BU. Contributor @ MIT NANDA. Currently building agent
-                  coordination at{" "}
+                  CS @ BU. Researcher @ MIT NANDA. Building cloud hosting for
+                  agents at{" "}
                   <a
-                    href="https://endercom.io"
+                    href="https://maritime.sh"
                     target="_blank"
                     className="underline"
                   >
-                    endercom.io
+                    maritime.sh
                   </a>
                   . Previously worked with the ESA.
                 </p>
@@ -257,16 +257,24 @@ export default function HomePage() {
                   Co-Lead
                 </p>
                 <p className="text-sm text-white uppercase tracking-wider">
-                  CS + Stats @ BU. Currently YC X26.
+                  CS + Stats @ BU. Giving machines instinct at{" "}
+                  <a
+                    href="https://general-instinct.com/"
+                    target="_blank"
+                    className="underline"
+                  >
+                    General Instinct
+                  </a>{" "}
+                  YC X26.
                 </p>
               </div>
               <div className="group relative overflow-hidden border-dashed border border-primary bg-[rgb(14,27,245)] p-6">
                 <div className="mb-4 h-24 w-24 overflow-hidden rounded-xl  border-primary  transition-all duration-300 group-hover:grayscale-0">
                   <img
                     src={
-                      "https://media.licdn.com/dms/image/v2/D5603AQEUM5lROBlz8Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677120097811?e=1773878400&v=beta&t=zp5OdyYO3OdF3usyXnnZPHYJWqZt_SiUHYs7YoMS7QU"
+                      "https://media.licdn.com/dms/image/v2/D4E03AQH4K623RNaKog/profile-displayphoto-crop_800_800/B4EZ3lmGekJEAI-/0/1777673469971?e=1779926400&v=beta&t=G31k0QKaBBkBV9ZsaBTRe5emjC14kkLDVV6x4UB2snU"
                     }
-                    alt={"Bill Jiao"}
+                    alt={"Nicole Debow"}
                     className="h-full w-full object-cover cursor-pointer"
                     onClick={() => {
                       window.open(
