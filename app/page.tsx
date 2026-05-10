@@ -265,7 +265,7 @@ export default function HomePage() {
                   >
                     General Instinct
                   </a>{" "}
-                  YC X26.
+                  (YC P26).
                 </p>
               </div>
               <div className="group relative overflow-hidden border-dashed border border-primary bg-[rgb(14,27,245)] p-6">
