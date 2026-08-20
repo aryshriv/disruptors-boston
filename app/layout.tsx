@@ -15,20 +15,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Disruptors | Spring 2026",
+  title: "Disruptors | Fall 2026",
   description:
-    "A no-fluff cohort for extremely dedicated builders. 1 hr/week. No curriculum. Just community + accountability.",
+    "A no-fluff cohort for extremely dedicated builders. Once a month + special events. No curriculum. Just community + accountability.",
 
   icons: "/favicon.ico",
-  keywords: ["disruptors", "boston", "spring 2026", "cohort"],
+  keywords: ["disruptors", "boston", "fall 2026", "cohort"],
   authors: [
     {
-      name: "Aryaman Shrivastava",
-      url: "https://www.linkedin.com/in/aryaman-shrivastava/",
+      name: "Nicole Debow",
+      url: "https://www.linkedin.com/in/nicoledebow/",
+    },
+    {
+      name: "Noah Borrup",
+      url: "https://www.linkedin.com/in/noah-borrup/",
     },
   ],
-  creator: "Aryaman Shrivastava",
-  publisher: "Aryaman Shrivastava",
+  creator: "Nicole Debow, Noah Borrup",
+  publisher: "Nicole Debow, Noah Borrup",
 
   robots: {
     index: true,

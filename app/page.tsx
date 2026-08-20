@@ -14,7 +14,7 @@ export default function HomePage() {
         <div className="container  overflow-hidden  h-full mx-auto px-4 py-24 md:py-32 relative z-10 flex flex-col justify-center">
           <div className="mx-auto relative w-full flex flex-col items-center text-center">
             <div className="mb-8  inline-block rounded-full border border-white text-white  px-4 py-1.5 text-xs md:text-sm opacity-75  uppercase tracking-widest">
-              Spring 2026
+              Fall 2026
             </div>
             <div className="w-full mb-12  flex justify-center">
               <div className="inline-block text-center">
@@ -34,14 +34,15 @@ export default function HomePage() {
 
             <p className="bg-[rgb(14,27,245)] px-2 mb-10 max-w-2xl text-xs sm:text-sm md:text-md lg:text-lg leading-relaxed text-white opacity-75">
               A no-fluff cohort for extremely dedicated builders.{" "}
-              <br className="block" />1 hr/week. No curriculum. Just community +
+              <br className="block" />
+              Once a month + special events. No curriculum. Just community +
               accountability.
             </p>
             <Button
               size="lg"
               className="group h-14 text-lg px-8 font-mono border-2 border-primary bg-transparent hover:bg-primary hover:text-primary-foreground text-primary rounded-none transition-all duration-300"
               onClick={() => {
-                window.open("https://forms.gle/XfkEE5GLTqCHR41r9", "_blank");
+                window.open("https://forms.gle/myy8E9yEyrHfvWzt5", "_blank");
               }}
             >
               [ APPLY_HERE ]
@@ -110,7 +111,7 @@ export default function HomePage() {
             <div className="space-y-6">
               {[
                 "You're actively building something: a startup, a content page, or even your own community",
-                "You're willing to show up every Tuesday from 7-8pm",
+                "You're willing to show up once a month from 7-8pm (+ special events)",
                 "You aren't afraid to experiment and take risks",
                 "You have a sense of urgency (or want to use this as an excuse to start)",
                 "You're in the Boston area (BU students preferred, but not required)",
@@ -155,125 +156,7 @@ export default function HomePage() {
               <div className="group relative overflow-hidden border-dashed border border-primary bg-[rgb(14,27,245)] p-6">
                 <div className="mb-4 h-24 w-24 overflow-hidden rounded-xl  border-primary  transition-all duration-300 group-hover:grayscale-0">
                   <img
-                    src={
-                      "https://firebasestorage.googleapis.com/v0/b/stava-f6b32.appspot.com/o/IMG_7543.jpg?alt=media&token=75774781-6a51-45b7-a279-3b42360cd534"
-                    }
-                    alt={"Ary Shrivastava"}
-                    className="h-full w-full object-cover cursor-pointer"
-                    onClick={() => {
-                      window.open(
-                        "https://www.linkedin.com/in/aryaman-shrivastava/",
-                        "_blank",
-                      );
-                    }}
-                  />
-                </div>
-                <a
-                  href="https://www.linkedin.com/in/aryaman-shrivastava/"
-                  target="_blank"
-                  className=" text-xl font-bold uppercase "
-                >
-                  Ary Shrivastava
-                </a>
-                <p className="text-sm mb-1 text-muted-foreground uppercase tracking-wider">
-                  Co-Lead
-                </p>
-                <p className="text-sm text-white uppercase tracking-wider">
-                  CS @ BU. Researcher @ MIT NANDA. Building cloud hosting for
-                  agents at{" "}
-                  <a
-                    href="https://maritime.sh"
-                    target="_blank"
-                    className="underline"
-                  >
-                    maritime.sh
-                  </a>
-                  . Previously worked with the ESA.
-                </p>
-              </div>
-              <div className="group relative overflow-hidden border-dashed border border-primary bg-[rgb(14,27,245)] p-6">
-                <div className="mb-4 h-24 w-24 overflow-hidden rounded-xl  border-primary  transition-all duration-300 group-hover:grayscale-0">
-                  <img
-                    src={
-                      "https://firebasestorage.googleapis.com/v0/b/stava-f6b32.appspot.com/o/1702059271200.jpeg?alt=media&token=b6ec6698-3c10-4f04-9982-717f1787230e"
-                    }
-                    alt={"Aryan Jain"}
-                    className="h-full w-full object-cover cursor-pointer"
-                    onClick={() => {
-                      window.open(
-                        "https://www.linkedin.com/in/aryanjain6492/",
-                        "_blank",
-                      );
-                    }}
-                  />
-                </div>
-                <a
-                  href="https://www.linkedin.com/in/aryanjain6492/"
-                  target="_blank"
-                  className=" text-xl font-bold uppercase "
-                >
-                  Aryan Jain
-                </a>
-                <p className="text-sm mb-1 text-muted-foreground uppercase tracking-wider">
-                  Co-Lead
-                </p>
-                <p className="text-sm text-white uppercase tracking-wider">
-                  DS and Econ @ BU. Founder of{" "}
-                  <a
-                    href="https://designmy.org"
-                    target="_blank"
-                    className="underline"
-                  >
-                    DesignMy Education
-                  </a>
-                  : turning youth entrepreneurship more experiential and
-                  accessible.
-                </p>
-              </div>
-              <div className="group relative overflow-hidden border-dashed border border-primary bg-[rgb(14,27,245)] p-6">
-                <div className="mb-4 h-24 w-24 overflow-hidden rounded-xl  border-primary  transition-all duration-300 group-hover:grayscale-0">
-                  <img
-                    src={
-                      "https://firebasestorage.googleapis.com/v0/b/stava-f6b32.appspot.com/o/Screenshot%202026-02-26%20at%2000.33.25.jpg?alt=media&token=c56d57bd-a2a7-49d0-9af6-39a21b00204d"
-                    }
-                    alt={"Bill Jiao"}
-                    className="h-full w-full object-cover cursor-pointer"
-                    onClick={() => {
-                      window.open(
-                        "https://www.linkedin.com/in/zhandong-jiao/",
-                        "_blank",
-                      );
-                    }}
-                  />
-                </div>
-                <a
-                  href="https://www.linkedin.com/in/zhandong-jiao/"
-                  target="_blank"
-                  className=" text-xl font-bold uppercase "
-                >
-                  Bill Jiao
-                </a>
-                <p className="text-sm mb-1 text-muted-foreground uppercase tracking-wider">
-                  Co-Lead
-                </p>
-                <p className="text-sm text-white uppercase tracking-wider">
-                  CS + Stats @ BU. Giving machines instinct at{" "}
-                  <a
-                    href="https://general-instinct.com/"
-                    target="_blank"
-                    className="underline"
-                  >
-                    General Instinct
-                  </a>{" "}
-                  (YC P26).
-                </p>
-              </div>
-              <div className="group relative overflow-hidden border-dashed border border-primary bg-[rgb(14,27,245)] p-6">
-                <div className="mb-4 h-24 w-24 overflow-hidden rounded-xl  border-primary  transition-all duration-300 group-hover:grayscale-0">
-                  <img
-                    src={
-                      "https://media.licdn.com/dms/image/v2/D4E03AQH4K623RNaKog/profile-displayphoto-crop_800_800/B4EZ3lmGekJEAI-/0/1777673469971?e=1779926400&v=beta&t=G31k0QKaBBkBV9ZsaBTRe5emjC14kkLDVV6x4UB2snU"
-                    }
+                    src={"/nicole-debow.jpg"}
                     alt={"Nicole Debow"}
                     className="h-full w-full object-cover cursor-pointer"
                     onClick={() => {
@@ -297,6 +180,36 @@ export default function HomePage() {
                 <p className="text-sm text-white uppercase tracking-wider">
                   DS @ BU. Previously worked at Kalshi, now working in the VC
                   space.
+                </p>
+              </div>
+              <div className="group relative overflow-hidden border-dashed border border-primary bg-[rgb(14,27,245)] p-6">
+                <div className="mb-4 h-24 w-24 overflow-hidden rounded-xl  border-primary  transition-all duration-300 group-hover:grayscale-0">
+                  <img
+                    src={"/noah-borrup.jpg"}
+                    alt={"Noah Borrup"}
+                    className="h-full w-full object-cover cursor-pointer"
+                    style={{ transform: "scale(2.3)", transformOrigin: "44% 39%" }}
+                    onClick={() => {
+                      window.open(
+                        "https://www.linkedin.com/in/noah-borrup/",
+                        "_blank",
+                      );
+                    }}
+                  />
+                </div>
+                <a
+                  href="https://www.linkedin.com/in/noah-borrup/"
+                  target="_blank"
+                  className=" text-xl font-bold uppercase "
+                >
+                  Noah Borrup
+                </a>
+                <p className="text-sm mb-1 text-muted-foreground uppercase tracking-wider">
+                  Co-Lead
+                </p>
+                <p className="text-sm text-white uppercase tracking-wider">
+                  Marketing + AI @ Northeastern. Founder of HonkRadar.
+                  Previously worked at swsh.
                 </p>
               </div>
             </div>
@@ -323,7 +236,7 @@ export default function HomePage() {
                 },
                 {
                   label: "How big is the cohort?",
-                  value: "10-16 people.",
+                  value: "12-24 people.",
                 },
                 {
                   label: "Who can apply?",
@@ -333,7 +246,7 @@ export default function HomePage() {
                 {
                   label: "When and where does it start?",
                   value:
-                    "Spring 2026 semester. Innovate@BU building. Tuesdays from 7-8pm.",
+                    "Fall 2026 semester. Innovate@BU building. Once a month from 7-8pm, + special events.",
                 },
               ].map((item, i) => (
                 <div key={i} className="border-l-2 border-primary pl-6">
@@ -372,7 +285,7 @@ export default function HomePage() {
               size="lg"
               className="group h-14 text-lg px-8 font-mono border-2 border-primary bg-transparent hover:bg-primary hover:text-primary-foreground text-primary rounded-none transition-all duration-300"
               onClick={() => {
-                window.open("https://forms.gle/XfkEE5GLTqCHR41r9", "_blank");
+                window.open("https://forms.gle/myy8E9yEyrHfvWzt5", "_blank");
               }}
             >
               [ APPLY_HERE ]
@@ -387,7 +300,8 @@ export default function HomePage() {
         <div className="container mx-auto px-4 py-12 relative z-10">
           <div className="mx-auto max-w-3xl text-center">
             <p className="text-sm text-muted-foreground">
-              Questions? Reach out to us directly at ary@stava.io
+              Questions? Reach out to us directly at ndebow@bu.edu and
+              borrup.n@northeastern.edu
             </p>
           </div>
         </div>
