@@ -212,6 +212,34 @@ export default function HomePage() {
                   Previously worked at swsh.
                 </p>
               </div>
+              <div className="group relative overflow-hidden border-dashed border border-primary bg-[rgb(14,27,245)] p-6">
+                <div className="mb-4 h-24 w-24 overflow-hidden rounded-xl  border-primary  transition-all duration-300 group-hover:grayscale-0">
+                  <img
+                    src={"/aditya-sahasranam.JPEG"}
+                    alt={"Aditya Sahasranam"}
+                    className="h-full w-full object-cover cursor-pointer"
+                    onClick={() => {
+                      window.open(
+                        "https://www.linkedin.com/in/adityasahas/",
+                        "_blank",
+                      );
+                    }}
+                  />
+                </div>
+                <a
+                  href="https://www.linkedin.com/in/adityasahas/"
+                  target="_blank"
+                  className=" text-xl font-bold uppercase "
+                >
+                  Aditya Sahasranam
+                </a>
+                <p className="text-sm mb-1 text-muted-foreground uppercase tracking-wider">
+                  Co-Lead
+                </p>
+                <p className="text-sm text-white uppercase tracking-wider">
+                  DS @ BU. Engineering at Pointer.
+                </p>
+              </div>
             </div>
           </div>
         </div>
