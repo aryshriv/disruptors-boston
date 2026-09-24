@@ -208,7 +208,7 @@ export default function HomePage() {
                   Co-Lead
                 </p>
                 <p className="text-sm text-white uppercase tracking-wider">
-                  Marketing + AI @ Northeastern. Founder of HonkRadar.
+                  Marketing + AI @ Northeastern.
                   Previously worked at swsh.
                 </p>
               </div>
